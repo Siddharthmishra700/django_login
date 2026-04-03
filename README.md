@@ -3,7 +3,6 @@
 A simple and powerful Django project that includes user authentication and full CRUD functionality.
 
 ---
-
 ## ✨ Features
 - 🔐 User Login System
 - ➕ Create Data
@@ -12,13 +11,6 @@ A simple and powerful Django project that includes user authentication and full 
 - ❌ Delete Data
 - 🔍 Search Functionality
 - 🚪 Logout System
-
----
-
-## 🛠️ Tech Stack
-- Python
-- Django
-- SQLite
 
 ---
 
@@ -56,7 +48,7 @@ http://127.0.0.1:8000/
 ---
 
 ## 👨‍💻 Author
-Raj_Nigam
+Siddharth
 
 ---
 
